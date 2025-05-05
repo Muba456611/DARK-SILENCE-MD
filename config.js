@@ -38,7 +38,7 @@ module.exports = {
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
-    AUTO_STICKER: process.env.AUTO_STICKER || "false",
+    AUTO_STICKER: process.env.AUTO_STICKER || "true",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/ycn349",
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M DARK-SILENCE-MD WHATSAPP BOT 😊♻️",
@@ -54,7 +54,7 @@ module.exports = {
     OWNER_NUMBER: process.env.OWNER_NUMBER || "260769254615",
     OWNER_NAME: process.env.OWNER_NAME || "MUBA",
     READ_CMD: process.env.READ_CMD || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺DARK-SILENCE-MD",
+    BOT_NAME: process.env.BOT_NAME || "MUBA",
     STATUS_REPLY: process.env.STATUS_REPLY || "",
     STATUS_REACT: process.env.STATUS_REACT || "true",
     ANTI_VV: process.env.ANTI_VV || "true",// true for anti once view 
