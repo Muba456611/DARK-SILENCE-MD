@@ -53,7 +53,7 @@ module.exports = {
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "260769254615",
     OWNER_NAME: process.env.OWNER_NAME || "MUBA",
-    READ_CMD: process.env.READ_CMD || "false",
+    READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "MUBA",
     
     STATUS_REACT: process.env.STATUS_REACT || "false",
