@@ -50,7 +50,7 @@ module.exports = {
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false", 
     CURRENT_STATUS: process.env.CURRENT_STATUS || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
-    HEART_REACT: process.env.HEART_REACT || "true",
+    HEART_REACT: process.env.HEART_REACT || "false ",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "260769254615",
     OWNER_NAME: process.env.OWNER_NAME || "MUBA",
     READ_CMD: process.env.READ_CMD || "true",
