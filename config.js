@@ -12,8 +12,8 @@
 ─██░░░░░░░░░░██──██░░░░░░██──██░░░░░░░░░░██──██░░░░░░░░░░██──██░░██──██████████░░██──────██░░██──────██░░░░░░░░░░██──██░░░░░░░░░░██────████░░████────██░░░░░░░░░░██──██░░██──██░░░░░░██─ 
 ─██████████████──██████████──██████████████──██████████████──██████──────────██████──────██████──────██████████████──██████████████──────██████──────██████████████──██████──██████████-
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
-created by ANONYMOUS 🕵
-contact me Anonymous ♻️
+created by Silent Lover 🕵
+contact me Silent Lover ♻️
 © Copy coder alert ⚠
 */
 
@@ -42,7 +42,7 @@ module.exports = {
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250505-WA0055.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "",
+    ALIVE_MSG: process.env.ALIVE_MSG || "Md activated",
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_CALL: process.env.ANTI_CALL || "false",
     BAD_NUMBER_BLOCKER: process.env.BAD_NUMBER_BLOCKER || "false",
@@ -55,13 +55,13 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "false",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "260769254615",
-    OWNER_NAME: process.env.OWNER_NAME || "Anonymous",
+    OWNER_NAME: process.env.OWNER_NAME || "Silent Lover",
     READ_CMD: process.env.READ_CMD || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺Anonymous",
+    BOT_NAME: process.env.BOT_NAME || "Dark Silence",
     STATUS_REPLY: process.env.STATUS_REPLY || "",
     STATUS_REACT: process.env.STATUS_REACT || "true",
     INBOX_BLOCK: process.env.INBOX_BLOCK || "false",
-    ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // change it to 'log' if you want to resend deleted message in ib chat 
+    ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "true", // change it to 'log' if you want to resend deleted message in ib chat 
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39"// omdbapi.com
 };
 
