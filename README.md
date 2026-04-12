@@ -1,3 +1,18 @@
+**This project is no longer alive.
+It exists now only in memories, in lines of code that will never change again.💔**
+
+----
+
+**This project has been laid to rest.
+It carried dreams, late nights, and quiet hopes… now it sleeps forever.🥀**
+
+-------
+
+**This is where it ends.
+Not with completion, but with silence.❤️‍🩹**
+
+`© •  SILENT LOVER 432 💫🤍`
+
 ----------
 
 **♦️𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐓𝐎 𝐔𝐒𝐄 𝐒𝐈𝐋𝐄𝐍𝐓-𝐒𝐎𝐁𝐗-𝐌𝐃 𝐁𝐀𝐈𝐋𝐘𝐒,𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐈𝐒 𝐍𝐎𝐖 𝐀𝐋𝐋𝐎𝐖𝐄𝐃 𝐓𝐎 𝐔𝐒𝐄 𝐖𝐈𝐓𝐇𝐎𝐔𝐓 𝐀𝐍𝐘 𝐁𝐔𝐆♦️**
@@ -87,7 +102,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ----------
 
 <p align="center">
-<a href='https://base-pair-dark-silence-md.onrender.com' target="_blank">
+<a href='https://base-pair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
@@ -96,7 +111,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ----------
 
 <p align="center">
-<a href='https://pair-dark-silence-md.onrender.com' target="_blank">
+<a href='https://pair-dark-silence-v6nv.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
  
